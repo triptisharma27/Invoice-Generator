@@ -8,7 +8,7 @@ Simple Invoice Generator made uing python flask mini web framework.
 
 <div align="center">
   
-__You can check the output file at [here](https://invoice-generator.akashrchandran.repl.co/share?id=NDM3MTUw).__
+
   
 </div>
 

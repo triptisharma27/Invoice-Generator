@@ -2,8 +2,6 @@
 
 Simple Invoice Generator made uing python flask mini web framework.
 
-Live deployed version available at https://invoice-generator.akashrchandran.repl.co/
-
 ## Example Usage
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78685510/220176643-d2b2e3d0-9f8d-476d-8a23-782fce703cab.gif)
@@ -19,7 +17,7 @@ __You can check the output file at [here](https://invoice-generator.akashrchandr
 > Clone to the local machine using git
 
 ```
-git clone https://github.com/akashrchandran/Invoice-Generator/
+git clone https://github.com/triptisharma27/Invoice-Generator.git
 ```
 > change directory and install depedencies using below commands
 

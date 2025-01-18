@@ -4,7 +4,7 @@ Simple Invoice Generator made uing python flask mini web framework.
 
 ## Example Usage
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78685510/220176643-d2b2e3d0-9f8d-476d-8a23-782fce703cab.gif)
+<!--- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78685510/220176643-d2b2e3d0-9f8d-476d-8a23-782fce703cab.gif) -->
 
 <div align="center">
   
